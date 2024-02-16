@@ -1,0 +1,71 @@
+# Course Overview
+--------------------------------------
+By Jason Olson
+--------------------------------------
+
+# Why Python?
+--------------------------------------
+- Simple to Learn
+- Simple to Use
+- Great Community 
+- Widely Used
+    - Web Development
+        - API (Backend Service)
+            - Flask
+            - FastAPI
+            - Bottle
+        - Website (Full Stack)
+            - Django
+            - TurboGears
+            - web2py
+        - App (CMS, ERP)
+            - Django CMS
+            - WagTail
+            - Mezzanine
+    - Data Science
+        - Big Data
+        - Machine Learning
+            - Spam
+            - Network Intrusion Detection
+            - Optical Charater
+            - Recognition
+            - Computer Vision
+    - Education and Learning
+        - STEM
+        - Programming
+        - Hardware
+        - Jupyter Notebooks
+    - Machine and Application Scripting
+        - Files, Configuration, Processes, Applications (Machine Scripting)
+        - Responding to Events, New Functionality (Application Scripting)
+--------------------------------------
+
+# What Is Python?
+    - General-purpose and High-level
+    - Multi-paradigm
+    - Python is Interpreted
+    - Python is Grabage-collected
+    - Python is Dynamically-typed
+--------------------------------------
+
+# Python Pros and Cons
+    - Pros
+        - Comprehensive Standard Library
+            - Collections
+            - File I/O
+            - Dates and Times
+            - Compression
+            - User Interface
+            - Much more ...
+        - Community-driven
+        - 3rd Party Libraries
+        - 3rd Party Tools
+    - Cons
+        - Interpreted
+            - Slow
+        - Not Native
+            - High memory usage, 
+            - lack of native security sanbox
+        - Dynamic
+            - Runtime Errors      
+--------------------------------------
