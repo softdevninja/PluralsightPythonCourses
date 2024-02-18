@@ -15,17 +15,17 @@ user_choice : str = 'default'
 
 user_choice = input(f'{"Do you want rock, paper, or scissor?"}\n')
 
-choices : list = ['rock','paper', 'scissor']
+choices : list = ['rock','paper','scissor']
 selection = rnd.randrange(0,3)
 computer_choice = choices[selection]
 
 if computer_choice == user_choice:
-    print(f'{"TIE"}')
+    print(f'{"Tie"}')
 elif user_choice == 'rock' and computer_choice == 'scissor':
-    print(f'{"YOU WIN"}')
+    print(f'{"You win"}')
 elif user_choice == 'paper' and computer_choice == 'rock':
-    print(f'{"YOU WIN"}')
+    print(f'{"You win"}')
 elif user_choice == 'scissor' and computer_choice == 'paper':
-    print(f'{"YOU WIN"}')
+    print(f'{"You win"}')
 else:
-    print(f'{"YOU LOSE"}')
+    print(f'{"You lose, computer choice was: "} {computer_choice}')
