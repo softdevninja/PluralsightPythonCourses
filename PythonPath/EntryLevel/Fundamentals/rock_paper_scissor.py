@@ -2,7 +2,7 @@
 # *_* coding: utf-8 *_*
 
 """
-Pluralsight PythonPath console based Rock, Paper, & Scissor game. 
+Pluralsight PythonPath console based Rock, Paper, & Scissor game from example. 
 """
 __version__ = "1.0.0"
 __author__ = "Doug Zuniga"
@@ -28,4 +28,4 @@ elif user_choice == 'paper' and computer_choice == 'rock':
 elif user_choice == 'scissor' and computer_choice == 'paper':
     print(f'{"You win"}')
 else:
-    print(f'{"You lose, computer choice was: "} {computer_choice}')
+    print(f'{"You lose, computer choice was:"} {computer_choice}')
