@@ -2,7 +2,7 @@
 # *_* coding: utf-8 *_*
 
 """
-Pluralsight PythonPath loan calculator. 
+Pluralsight PythonPath loan calculator from example. 
 """
 __version__ = "1.0.0"
 __author__ = "Doug Zuniga"

@@ -2,7 +2,7 @@
 # *_* coding: utf-8 *_*
 
 """
-Pluralsight PythonPath simple tax calculator.
+Pluralsight PythonPath simple tax calculator from example.
 """
 __version__ = "1.0.0"
 __author__ = "Doug Zuniga"
